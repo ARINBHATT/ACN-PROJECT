@@ -4,6 +4,7 @@ import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.utils.class_weight import compute_class_weight
+from sklearn.model_selection import StratifiedKFold
 import joblib # to save the scaler
 
 # --- CONFIGURATION ---
@@ -78,6 +79,59 @@ history = model.fit(
     batch_size=BATCH_SIZE,
     validation_data=(X_test, y_test),
     class_weight=class_weights, # <--- Critical for your imbalanced data
+    verbose=1
+)
+# --- Cross-Validation ---
+print("\n[*] Performing 5-Fold Cross-Validation...")
+
+kfold = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+fold_no = 1
+val_accuracies = []
+val_losses = []
+
+# Use the full sequenced dataset (X, y) for cross-validation
+for train, test in kfold.split(X, y):
+    print(f"--- Fold {fold_no}/{kfold.get_n_splits()} ---")
+    
+    # Re-build the model from scratch for each fold
+    cv_model = tf.keras.models.clone_model(model)
+    cv_model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+
+    # Calculate class weights for the current fold's training data
+    fold_weights = compute_class_weight(class_weight='balanced', classes=np.unique(y[train]), y=y[train])
+    fold_class_weights = {0: fold_weights[0], 1: fold_weights[1]}
+
+    # Train the model on the fold's training data
+    cv_history = cv_model.fit(
+        X[train], y[train],
+        epochs=EPOCHS,
+        batch_size=BATCH_SIZE,
+        validation_data=(X[test], y[test]),
+        class_weight=fold_class_weights,
+        verbose=0  # Set to 0 or 2 to keep logs clean
+    )
+    
+    # Evaluate and store results
+    scores = cv_model.evaluate(X[test], y[test], verbose=0)
+    print(f"    Validation Loss: {scores[0]:.4f}")
+    print(f"    Validation Accuracy: {scores[1]:.4f}")
+    val_losses.append(scores[0])
+    val_accuracies.append(scores[1])
+    
+    fold_no += 1
+
+# --- Average Results ---
+print("\n--- Cross-Validation Summary ---")
+print(f"Average Validation Loss: {np.mean(val_losses):.4f}")
+print(f"Average Validation Accuracy: {np.mean(val_accuracies):.4f}")
+
+print("\n[*] Re-training model on the entire dataset before saving...")
+# The original model is now trained on all available data for final deployment
+history = model.fit(
+    X, y,
+    epochs=EPOCHS,
+    batch_size=BATCH_SIZE,
+    class_weight=class_weights, # Using weights calculated on the full dataset earlier
     verbose=1
 )
 
