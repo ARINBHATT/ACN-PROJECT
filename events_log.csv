@@ -1,0 +1,1237 @@
+timestamp,channel_name,port,seq,mac,app_text,hop_valid,prediction,reason,extra
+2025-11-17 19:39:36,pipe_channel_39,50039,8,DEADBEEFCAFE,Packet-8,True,Normal,Learning,"{'sig': 'b06aeede3db5decd2ce826e4f51b2b16a4f98735fc6d9d2f8a5716701dfa625b', 'baseline_count': 1}"
+2025-11-17 19:39:37,pipe_channel_38,50038,9,DEADBEEFCAFE,Packet-9,True,Normal,Learning,"{'sig': '314bf3dbb5999b31d9e7158cc1f8e7111a01209aa810c8a00356b81ef3b38964', 'baseline_count': 1}"
+2025-11-17 19:39:38,pipe_channel_39,50039,10,DEADBEEFCAFE,Packet-10,True,Normal,Learning,"{'sig': '54f0bbed3ddcd5ff431e2ffad64c36f5e73687d0c49b44a68063b004981fa19d', 'baseline_count': 1}"
+2025-11-17 19:39:39,pipe_channel_37,50037,11,DEADBEEFCAFE,Packet-11,True,Normal,Learning,"{'sig': '2b28de74ef6cab754a3b7ab6c958a4e7a3d7a6ecc7dc471dc6b598c4c936b705', 'baseline_count': 1}"
+2025-11-17 19:39:40,pipe_channel_38,50038,12,DEADBEEFCAFE,Packet-12,True,Normal,Learning,"{'sig': 'c71b32130498b2d005e7aa4c4b8f8b04a73ad16b7250c011d09b5e737cd3b544', 'baseline_count': 1}"
+2025-11-17 19:39:41,pipe_channel_37,50037,13,DEADBEEFCAFE,Packet-13,True,Normal,Learning,"{'sig': '99d67284b410a0e76678b8c712791083ff7993f3e88618123927eec41126c5f4', 'baseline_count': 1}"
+2025-11-17 19:39:42,pipe_channel_37,50037,14,DEADBEEFCAFE,Packet-14,True,Normal,Learning,"{'sig': '9aeec12c1a79d5f84924bcdda0aae5142d14643744458cc92fd65cad60bb0f38', 'baseline_count': 1}"
+2025-11-17 19:39:43,pipe_channel_39,50039,15,DEADBEEFCAFE,Packet-15,True,Normal,Learning,"{'sig': 'daa5a6a39413f9f08973cdeaafcda2d308f02b7f15c4cc59dc086929ac9a4582', 'baseline_count': 1}"
+2025-11-17 19:39:44,pipe_channel_38,50038,16,DEADBEEFCAFE,Packet-16,True,Normal,Learning,"{'sig': '480edffee417e7aac45e80392a87786f3c7f6783bd2a7c5e061897cb72488449', 'baseline_count': 1}"
+2025-11-17 19:39:45,pipe_channel_39,50039,17,DEADBEEFCAFE,Packet-17,True,Normal,Learning,"{'sig': 'ae705dd50b8dab291cc354a568873811bc832a21d4d2b40aefcec642f4724330', 'baseline_count': 1}"
+2025-11-17 19:39:46,pipe_channel_37,50037,18,DEADBEEFCAFE,Packet-18,True,Normal,Learning finished,{'baseline_entries': 10}
+2025-11-17 19:39:47,pipe_channel_38,50038,19,DEADBEEFCAFE,Packet-19,True,Normal,Novel sequence (unseen),{'sig': '3f9e7338b3526bb3913244febabfd7d95ed7e569839e3f521c151375a413267d'}
+2025-11-17 19:39:48,pipe_channel_39,50039,20,DEADBEEFCAFE,Packet-20,True,Normal,Novel sequence (unseen),{'sig': '66035e94d8c7047d8d6224b0529bb4df8bc70b8e181d52c7d0a79dcaf86e8a5e'}
+2025-11-17 19:39:49,pipe_channel_37,50037,21,DEADBEEFCAFE,Packet-21,True,Normal,Novel sequence (unseen),{'sig': '0f33e5441f81e8e29efcc3582f3b4b97fe69295700ae8fde2dd8448c1c6e4bcc'}
+2025-11-17 19:39:50,pipe_channel_37,50037,22,DEADBEEFCAFE,Packet-22,True,Normal,Novel sequence (unseen),{'sig': 'e9474689e920c619c718eaab2a07bee3895af4ddc1ff4fea20e279f583b812b3'}
+2025-11-17 19:39:51,pipe_channel_39,50039,23,DEADBEEFCAFE,Packet-23,True,Normal,Novel sequence (unseen),{'sig': 'd0523db2eccfb55df194afb4f35db01d0d4e831af6ff848213d82d09feb562f3'}
+2025-11-17 19:39:52,pipe_channel_39,50039,24,DEADBEEFCAFE,Packet-24,True,Normal,Novel sequence (unseen),{'sig': '36d4e115792b64f6a33d5c071d950b33c2fc0e986f4e0cf9f942e1c5a4b13d52'}
+2025-11-17 19:39:53,pipe_channel_38,50038,25,DEADBEEFCAFE,Packet-25,True,Normal,Novel sequence (unseen),{'sig': '096e855efa0b30f490e54238edb6fb56b4779df57828d7738406e5fd36f8cefc'}
+2025-11-17 19:39:54,pipe_channel_38,50038,26,DEADBEEFCAFE,Packet-26,True,Normal,Novel sequence (unseen),{'sig': 'f387cd43d55efe6a40c44f7d0b660ebd088762eb51f7f062cb1038e5889441d4'}
+2025-11-17 19:39:55,pipe_channel_37,50037,27,DEADBEEFCAFE,Packet-27,True,Normal,Novel sequence (unseen),{'sig': '7c7d992125beee67ea664806b86592d679f5785cb05c502e2044fbcb07de439c'}
+2025-11-17 19:39:56,pipe_channel_38,50038,28,DEADBEEFCAFE,Packet-28,True,Normal,Novel sequence (unseen),{'sig': '37b70cbd41f4ad78a791e1ee7d67eb7063b5f043b752d20df5303818add36477'}
+2025-11-17 19:39:57,pipe_channel_38,50038,29,DEADBEEFCAFE,Packet-29,True,Normal,Novel sequence (unseen),{'sig': '995d9c78ce8c632ee1b2e19e2a5cca555a51e4a584b06142e163540bb038593b'}
+2025-11-17 19:39:58,pipe_channel_39,50039,30,DEADBEEFCAFE,Packet-30,True,Normal,Novel sequence (unseen),{'sig': 'b3a73d53455b616c9d644b57dc74be84a8b82a1849a2b5ef35939e3cbd9cb329'}
+2025-11-17 19:39:59,pipe_channel_39,50039,31,DEADBEEFCAFE,Packet-31,True,Normal,Novel sequence (unseen),{'sig': '31b66439420c8bb50ff17512c21ed09fb78a8727132b534f85e5f756ee308267'}
+2025-11-17 19:40:00,pipe_channel_39,50039,32,DEADBEEFCAFE,Packet-32,True,Normal,Novel sequence (unseen),{'sig': '98b27d42890d88acf0848d16bceee66f9d8ea13d7be12eb6c1f2a317cad194e1'}
+2025-11-17 19:40:01,pipe_channel_37,50037,33,DEADBEEFCAFE,Packet-33,True,Normal,Novel sequence (unseen),{'sig': '6d070f40e1801bdf242ac52f355148a8ea56f646cde5a03e6f7455ee9b96f601'}
+2025-11-17 19:40:02,pipe_channel_37,50037,34,DEADBEEFCAFE,Packet-34,True,Normal,Novel sequence (unseen),{'sig': '7de7aaad978b4308e1919a0266a35588a8e299bae7ae1e88a0bf68ffaa72deb7'}
+2025-11-17 19:40:03,pipe_channel_38,50038,35,DEADBEEFCAFE,Packet-35,True,Normal,Novel sequence (unseen),{'sig': '802631515252cf793c9617534e6605830dbf76a9a22f24922f98c49af1e4eb63'}
+2025-11-17 19:40:04,pipe_channel_39,50039,36,DEADBEEFCAFE,Packet-36,True,Normal,Novel sequence (unseen),{'sig': 'f86f9ba6712ef677025143cf479e6b47858fb9a0098b16175fede5802da62a80'}
+2025-11-17 19:40:05,pipe_channel_39,50039,37,DEADBEEFCAFE,Packet-37,True,Normal,Novel sequence (unseen),{'sig': 'b250e11e8dfb563dcc66b5202e0eb7d84625775112fae612d582b987f3e8dc80'}
+2025-11-17 19:40:06,pipe_channel_37,50037,38,DEADBEEFCAFE,Packet-38,True,Normal,Novel sequence (unseen),{'sig': '9120415154d21c77fd0ffabe6c49ff840ba5dd937bd7889a36b575eba28a5c58'}
+2025-11-17 19:40:07,pipe_channel_38,50038,39,DEADBEEFCAFE,Packet-39,True,Normal,Novel sequence (unseen),{'sig': '6074e0300d6fb48cc1dea205def38232af43dbe2c15a037ca78d6be15d9b822b'}
+2025-11-17 19:40:08,pipe_channel_37,50037,40,DEADBEEFCAFE,Packet-40,True,Normal,Novel sequence (unseen),{'sig': '09cdad2065ba17d2caa16f1fb8e9aaab51bea80e0aaf555143991ba33dda61d0'}
+2025-11-17 19:40:09,pipe_channel_38,50038,41,DEADBEEFCAFE,Packet-41,True,Normal,Novel sequence (unseen),{'sig': '66a0ad8597012a32dcab2fb024110c56c6ec7acceeb0d670953bf1c8f333d3fe'}
+2025-11-17 19:40:10,pipe_channel_37,50037,42,DEADBEEFCAFE,Packet-42,True,Normal,Novel sequence (unseen),{'sig': 'cb9cb6089b9a4ac40c181b1de53ede256e4e30ba90f2596531dc25cf26e42a48'}
+2025-11-17 19:40:11,pipe_channel_39,50039,43,DEADBEEFCAFE,Packet-43,True,Normal,Novel sequence (unseen),{'sig': 'a95e326d81bbc242f191f008d72816a3a09acdb74606b2b4ed6c87966b28215f'}
+2025-11-17 19:40:12,pipe_channel_39,50039,44,DEADBEEFCAFE,Packet-44,True,Normal,Novel sequence (unseen),{'sig': '4c6ccff1d3e24514d57395fa64895c412f42a5e16bc06f00b2ca8624ccd6e833'}
+2025-11-17 19:40:13,pipe_channel_38,50038,45,DEADBEEFCAFE,Packet-45,True,Normal,Novel sequence (unseen),{'sig': '23d8afd7d07ae0a7f36004d826f1b0c7372ecd7d5078de45c4f1293045cd4528'}
+2025-11-17 19:40:14,pipe_channel_39,50039,46,DEADBEEFCAFE,Packet-46,True,Normal,Novel sequence (unseen),{'sig': '9ee97111de265e521dbf520ce0e63e601a33666d56e2be3bf39468334914b04d'}
+2025-11-17 19:40:15,pipe_channel_37,50037,47,DEADBEEFCAFE,Packet-47,True,Normal,Novel sequence (unseen),{'sig': 'e0c3276de7525518dd1cf457a84148d25aea1fcee6865026ef37c108454afc77'}
+2025-11-17 19:40:16,pipe_channel_37,50037,48,DEADBEEFCAFE,Packet-48,True,Normal,Novel sequence (unseen),{'sig': 'acb34390d4803962ca3591678d209347d3b786385c185e026be5bf486832682f'}
+2025-11-17 19:40:17,pipe_channel_37,50037,49,DEADBEEFCAFE,Packet-49,True,Normal,Novel sequence (unseen),{'sig': '9d7c9ad13e8fa0651eef7aae75bee72c5d88b0da0faa375429b42665cc2f143a'}
+2025-11-17 19:40:18,pipe_channel_37,50037,50,DEADBEEFCAFE,Packet-50,True,Normal,Novel sequence (unseen),{'sig': 'f2e94f9f2c43928b1e61de04573314232b90981315a32b213771063e16fa3a2e'}
+2025-11-17 19:40:19,pipe_channel_39,50039,51,DEADBEEFCAFE,Packet-51,True,Normal,Novel sequence (unseen),{'sig': '709b87a644069b076ff4045d9afff70b013377f0611958f30955a1ae05ff1f25'}
+2025-11-17 19:40:20,pipe_channel_39,50039,52,DEADBEEFCAFE,Packet-52,True,Normal,Novel sequence (unseen),{'sig': 'eb083b9cc5be8c1aa42746aa9d9a3472d115a54b3e19612e5d78c5740ee9cf6c'}
+2025-11-17 19:40:21,pipe_channel_38,50038,53,DEADBEEFCAFE,Packet-53,True,Normal,Novel sequence (unseen),{'sig': '37663b113706ccb0dfaa9906359781889b8d30db39586d16058a8c8ee8200fc3'}
+2025-11-17 19:40:22,pipe_channel_39,50039,54,DEADBEEFCAFE,Packet-54,True,Normal,Novel sequence (unseen),{'sig': '91e06234ba8b3160f5d6ec0ce3a7ca87a26f9dad256fdff26ce36a960b008d9b'}
+2025-11-17 19:40:23,pipe_channel_37,50037,55,DEADBEEFCAFE,Packet-55,True,Normal,Novel sequence (unseen),{'sig': '4db7e97d6a91683c9a3d882a4fb3c58adf816dabefff7a23a405cec40820d85e'}
+2025-11-17 19:40:24,pipe_channel_37,50037,56,DEADBEEFCAFE,Packet-56,True,Normal,Novel sequence (unseen),{'sig': 'ec006ae98f890d194f420cf042605fb438f3793bc0335140aaf7faed3385edd3'}
+2025-11-17 19:40:25,pipe_channel_39,50039,57,DEADBEEFCAFE,Packet-57,True,Normal,Novel sequence (unseen),{'sig': '91db3caa9b06c2372f622b5b1e79b320aca5974db844e0b2a19cf860df9c787b'}
+2025-11-17 19:40:26,pipe_channel_37,50037,58,DEADBEEFCAFE,Packet-58,True,Normal,Novel sequence (unseen),{'sig': '93e0868a9c92b90cfc3d27274b8282b42b48a4685b2fd36d2e4ca8edd60a6e1f'}
+2025-11-17 19:40:27,pipe_channel_38,50038,59,DEADBEEFCAFE,Packet-59,True,Normal,Novel sequence (unseen),{'sig': 'f75b5f53d86368fb82cdd4bcc3ad06b1471cbab4b9450f650305a181064d3f83'}
+2025-11-17 19:40:28,pipe_channel_39,50039,60,DEADBEEFCAFE,Packet-60,True,Normal,Novel sequence (unseen),{'sig': 'a307252970aad3b4af7f2000c85b0d1fd84ffae1cacbec885900bba2a1372fac'}
+2025-11-17 19:40:29,pipe_channel_38,50038,61,DEADBEEFCAFE,Packet-61,True,Normal,Novel sequence (unseen),{'sig': 'dbe69fd98283e99ded20d6dc6c8d55e2d25614cc4aafd3c586d0a5152a49ace1'}
+2025-11-17 19:40:30,pipe_channel_38,50038,62,DEADBEEFCAFE,Packet-62,True,Normal,Novel sequence (unseen),{'sig': 'f3c53a805296124e804d435cced506be0db7600d6d1c78ad48941115c2f67dbd'}
+2025-11-17 19:40:31,pipe_channel_38,50038,63,DEADBEEFCAFE,Packet-63,True,Normal,Novel sequence (unseen),{'sig': 'dca0082ae1c1490e6808ddf7b1876fa19f59d156515abb3dbf19cfba0e17761e'}
+2025-11-17 19:40:32,pipe_channel_38,50038,64,DEADBEEFCAFE,Packet-64,True,Normal,Novel sequence (unseen),{'sig': '9487e40c3457f015709610206be16b73b6442187e126fcd7e2c4c1b7fbab92d3'}
+2025-11-17 19:40:33,pipe_channel_39,50039,65,DEADBEEFCAFE,Packet-65,True,Normal,Novel sequence (unseen),{'sig': '36061a7bc0bb3ec84588a9a6d0d84e88e7ce28701b39ab3af7984e7cb4a377a6'}
+2025-11-17 19:40:34,pipe_channel_38,50038,66,DEADBEEFCAFE,Packet-66,True,Normal,Novel sequence (unseen),{'sig': '1df9e7de885e4d82b3fab65c6d4e13967c4c354b6fb9f0abc16c83ed7c0e7a32'}
+2025-11-17 19:40:35,pipe_channel_38,50038,67,DEADBEEFCAFE,Packet-67,True,Normal,Novel sequence (unseen),{'sig': '35baaed250955b8177041960e09f5cc9c556186ecd062e10eb784cd11424678d'}
+2025-11-17 19:40:36,pipe_channel_37,50037,68,DEADBEEFCAFE,Packet-68,True,Normal,Novel sequence (unseen),{'sig': 'd65f49b40e9a09a619acce6f523b8fccaa401c2c13f2d4c2bedaf3fbfa0035f6'}
+2025-11-17 19:40:37,pipe_channel_38,50038,69,DEADBEEFCAFE,Packet-69,True,Normal,Novel sequence (unseen),{'sig': 'e0f393b1139149fc5081039ddc0f22c362c33928c7d314afddddb307a63db129'}
+2025-11-17 19:40:38,pipe_channel_38,50038,70,DEADBEEFCAFE,Packet-70,True,Normal,Novel sequence (unseen),{'sig': '3f3ead634aee0a3f364067103c4beb77ac87826409c7693fac53214fc9c1b72a'}
+2025-11-17 19:40:39,pipe_channel_38,50038,71,DEADBEEFCAFE,Packet-71,True,Normal,Novel sequence (unseen),{'sig': 'fb3d400538aca1ded2c31a6769d779047f5634ea4cea20c4407b06977d0073c0'}
+2025-11-17 19:40:40,pipe_channel_37,50037,72,DEADBEEFCAFE,Packet-72,True,Normal,Novel sequence (unseen),{'sig': '5cc4b2f66c0a5a8089808f003617925b6380738399d54cea3516e8244c25bce9'}
+2025-11-17 19:40:41,pipe_channel_37,50037,73,DEADBEEFCAFE,Packet-73,True,Normal,Novel sequence (unseen),{'sig': '9127ce8d958a62c7767b77e92b529267de9385095d05ec16f63289024c0395a2'}
+2025-11-17 19:40:42,pipe_channel_39,50039,74,DEADBEEFCAFE,Packet-74,True,Normal,Novel sequence (unseen),{'sig': '021544dcb179f5bbb71e571fc6f7971bb8686fc3d2ac67e4c0a8b9dfebe69b0d'}
+2025-11-17 19:40:43,pipe_channel_37,50037,75,DEADBEEFCAFE,Packet-75,True,Normal,Novel sequence (unseen),{'sig': '38a70cde19b031122d5f59a44df4ddfe5155060d4149d82f5266cef51bff1a35'}
+2025-11-17 19:40:44,pipe_channel_38,50038,76,DEADBEEFCAFE,Packet-76,True,Normal,Novel sequence (unseen),{'sig': '435c581d04e626526f53403f28b9460a5847cfb885ecc9e77d11753bf94a7851'}
+2025-11-17 19:40:45,pipe_channel_38,50038,77,DEADBEEFCAFE,Packet-77,True,Normal,Novel sequence (unseen),{'sig': 'c4fbc4728f1f7f8ae2681e2f07bd67bbddd83075f07c4face12fb9888db516ce'}
+2025-11-17 19:40:46,pipe_channel_38,50038,78,DEADBEEFCAFE,Packet-78,True,Normal,Novel sequence (unseen),{'sig': '0804cc6e94c72ee53ce35c2c2e7bf356f2e59a4720f3fba991725b70d414b0b3'}
+2025-11-17 19:40:47,pipe_channel_39,50039,79,DEADBEEFCAFE,Packet-79,True,Normal,Novel sequence (unseen),{'sig': '243d99c7f3374e875d38fcc65bd2afb327b46ddcaa96cdfe33b460e054fcc0b0'}
+2025-11-17 19:40:48,pipe_channel_39,50039,80,DEADBEEFCAFE,Packet-80,True,Normal,Novel sequence (unseen),{'sig': 'de366ccfd0828dedb6bd6e954d82207a748e7765968326e97efcac8a09b15fcb'}
+2025-11-17 19:40:49,pipe_channel_39,50039,81,DEADBEEFCAFE,Packet-81,True,Normal,Novel sequence (unseen),{'sig': '43309e01d695163ebe0c6fe246c1b53a0adfee70ee6058e5941cea6c4cac256c'}
+2025-11-17 19:40:50,pipe_channel_38,50038,82,DEADBEEFCAFE,Packet-82,True,Normal,Novel sequence (unseen),{'sig': '659ab7f43f1a8281e555e243133ebcc67faae423256c0d06573e06359df0ec7b'}
+2025-11-17 19:40:51,pipe_channel_37,50037,83,DEADBEEFCAFE,Packet-83,True,Normal,Novel sequence (unseen),{'sig': 'a9c9bbe8293e7005a53fabc075f80c9ac31385724faaa8047d327ce7f6d1b252'}
+2025-11-17 19:40:52,pipe_channel_39,50039,84,DEADBEEFCAFE,Packet-84,True,Normal,Novel sequence (unseen),{'sig': 'd4e91739b35f6f43cf412d5e50b56d5cb5e29ce3009347b6fc432ba5a2c54171'}
+2025-11-17 19:40:53,pipe_channel_38,50038,85,DEADBEEFCAFE,Packet-85,True,Normal,Novel sequence (unseen),{'sig': '9685109b62f9f13c72aadfcb2aa2eb71884a465249674bb367e12b504f918ddc'}
+2025-11-17 19:40:54,pipe_channel_37,50037,86,DEADBEEFCAFE,Packet-86,True,Normal,Novel sequence (unseen),{'sig': '84910d52394f6c1cc55c1d7efd171679c27a8a3730509fd61cbe199340ce5fed'}
+2025-11-17 19:40:55,pipe_channel_38,50038,87,DEADBEEFCAFE,Packet-87,True,Normal,Novel sequence (unseen),{'sig': '593ab03d939a92606e0d1075ea4ebdd472879f14c24a868b6d24ee0265343071'}
+2025-11-17 19:40:56,pipe_channel_39,50039,88,DEADBEEFCAFE,Packet-88,True,Normal,Novel sequence (unseen),{'sig': 'f2d50710b74912d03e5d705c092ebd9b012423d04c5f69e76ad322c6cb138089'}
+2025-11-17 19:40:57,pipe_channel_38,50038,89,DEADBEEFCAFE,Packet-89,True,Normal,Novel sequence (unseen),{'sig': '515172b8d21e498445744dcabc9d4bdfa23be257c47c3b5b0d2efbcfd88d9dd8'}
+2025-11-17 19:40:58,pipe_channel_37,50037,90,DEADBEEFCAFE,Packet-90,True,Normal,Novel sequence (unseen),{'sig': '64e2458aeb8c95c8e41552015f2954632c3a442c6375f0f3c4f69990c9c2f7ce'}
+2025-11-17 19:40:59,pipe_channel_38,50038,91,DEADBEEFCAFE,Packet-91,True,Normal,Novel sequence (unseen),{'sig': '7a50881a890e03d5e325ff59c658fb93b9e654d2c6f2ff4c5a8494d78a97bf8f'}
+2025-11-17 19:41:00,pipe_channel_37,50037,92,DEADBEEFCAFE,Packet-92,True,Normal,Novel sequence (unseen),{'sig': '506bf9e335c8fdfa66cdc9b46eeaa22bfa50b5d0cb7fbe86363d1b7bbd5e6933'}
+2025-11-17 19:41:01,pipe_channel_39,50039,93,DEADBEEFCAFE,Packet-93,True,Normal,Novel sequence (unseen),{'sig': '9b932ee686c8ee41e43014b0d55a94cd3733ea7624f16e263db988d0099d7a15'}
+2025-11-17 19:41:02,pipe_channel_37,50037,94,DEADBEEFCAFE,Packet-94,True,Normal,Novel sequence (unseen),{'sig': '6c51a5edb1ea9ddeb993f25a530e3e72d683ea7ee3e4a4b3d24ed8088a9e41dd'}
+2025-11-17 19:41:03,pipe_channel_37,50037,95,DEADBEEFCAFE,Packet-95,True,Normal,Novel sequence (unseen),{'sig': 'b1b5c842da66ed51d369c9d5d59b38bfa7746257df25d99593ad5e62b56ff5a3'}
+2025-11-17 19:41:04,pipe_channel_39,50039,96,DEADBEEFCAFE,Packet-96,True,Normal,Novel sequence (unseen),{'sig': 'ef68e8a56c43d73b57ba1d2483e983aef87cd134661fe7bf0ffcc3b8ec75b530'}
+2025-11-17 19:41:05,pipe_channel_39,50039,97,DEADBEEFCAFE,Packet-97,True,Normal,Novel sequence (unseen),{'sig': '24c43dd60af3fe5a6502c368bb392528bcd9e8e8d6c1751f2699a4097b0471b3'}
+2025-11-17 19:41:06,pipe_channel_38,50038,98,DEADBEEFCAFE,Packet-98,True,Normal,Novel sequence (unseen),{'sig': '082f63f4f064b0bedfa13035d0402dc84dd0a03657ddde4dd64a1aa307a03402'}
+2025-11-17 19:41:07,pipe_channel_37,50037,99,DEADBEEFCAFE,Packet-99,True,Normal,Novel sequence (unseen),{'sig': '5477ce5c2c1a96987e6d17bba6d318ed00bb7c25007f36a3bc16cb4890208c1a'}
+2025-11-17 19:41:08,pipe_channel_39,50039,100,DEADBEEFCAFE,Packet-100,True,Normal,Novel sequence (unseen),{'sig': 'ab51db43f8d73ae41280f0dfaa3bb2d8eaa38458efbe93ff0f5b5776330ee410'}
+2025-11-17 19:41:09,pipe_channel_38,50038,101,DEADBEEFCAFE,Packet-101,True,Normal,Novel sequence (unseen),{'sig': '5086c690d38b7da56023654abb9a0aab0ba0fb063e2aa8636bcce871a763269e'}
+2025-11-17 19:41:10,pipe_channel_38,50038,102,DEADBEEFCAFE,Packet-102,True,Normal,Novel sequence (unseen),{'sig': 'b44185fdc2848ff9ca6220ec4318a884281b56481eacd0ba1f1dfdc459ba166c'}
+2025-11-17 19:41:11,pipe_channel_39,50039,103,DEADBEEFCAFE,Packet-103,True,Normal,Novel sequence (unseen),{'sig': 'd09474265d748d6d1a212352fa3e553bd2758227d5559ca794e69ee8c252b0ea'}
+2025-11-17 19:41:12,pipe_channel_37,50037,104,DEADBEEFCAFE,Packet-104,True,Normal,Novel sequence (unseen),{'sig': 'fc53c5b997e1447650d7e41d6abc42f10b38ec249bd42f320bc780c0c32c5009'}
+2025-11-17 19:41:13,pipe_channel_39,50039,105,DEADBEEFCAFE,Packet-105,True,Normal,Novel sequence (unseen),{'sig': '986988d35b63999b053301035892e7f6f3f82493fb5e0328ae90daa4f0913433'}
+2025-11-17 19:41:14,pipe_channel_38,50038,106,DEADBEEFCAFE,Packet-106,True,Normal,Novel sequence (unseen),{'sig': 'c0ea24df89c966197f0b6f4b30471bc43d8e272de5acb2a62af952c32abc3702'}
+2025-11-17 19:41:15,pipe_channel_37,50037,107,DEADBEEFCAFE,Packet-107,True,Normal,Novel sequence (unseen),{'sig': '896ed9251813d585323ff2e421be635245aa31118cae05887e8d2c0891618e67'}
+2025-11-17 19:41:16,pipe_channel_39,50039,108,DEADBEEFCAFE,Packet-108,True,Normal,Novel sequence (unseen),{'sig': 'f57468777f4b27a3af2d057494a328620d1a98dfb8a872d84353a3b21d7060d8'}
+2025-11-17 19:41:17,pipe_channel_38,50038,109,DEADBEEFCAFE,Packet-109,True,Normal,Novel sequence (unseen),{'sig': '75d1cb847d2b0f673a6ab16fc349fbe5b02cafbdd33d6fabc5fd238be3ec97f7'}
+2025-11-17 19:41:18,pipe_channel_38,50038,110,DEADBEEFCAFE,Packet-110,True,Normal,Novel sequence (unseen),{'sig': '90d274c92a2144d4e5299180cb0b5ea65a60d05529bb6a3ed8841d39d4052cff'}
+2025-11-17 19:41:19,pipe_channel_38,50038,111,DEADBEEFCAFE,Packet-111,True,Normal,Novel sequence (unseen),{'sig': '355f578bb55e36ddca515f4f6cbdcc1e6da7f24e89fc7784c8ba8a6a9276b166'}
+2025-11-17 19:41:20,pipe_channel_37,50037,112,DEADBEEFCAFE,Packet-112,True,Normal,Novel sequence (unseen),{'sig': 'a62fe912b3ffcc7eba1301de8dfae2daebcb66a8faba816dd5b9f06bc55a86e2'}
+2025-11-17 19:41:21,pipe_channel_39,50039,113,DEADBEEFCAFE,Packet-113,True,Normal,Novel sequence (unseen),{'sig': '6b04693873dbe771c8522a6ff4f3188504ff82253be1032a6428a0cc5030c951'}
+2025-11-17 19:41:22,pipe_channel_37,50037,114,DEADBEEFCAFE,Packet-114,True,Normal,Novel sequence (unseen),{'sig': 'dac7215ccac288c6585ab836cfff913b81757785a2955ec5980a3ce7fd43653b'}
+2025-11-17 19:41:23,pipe_channel_39,50039,115,DEADBEEFCAFE,Packet-115,True,Normal,Novel sequence (unseen),{'sig': '1308542b746244dd8784d2527d0d35d8a94b126d550b0e07b0a1ea1be02fa7e8'}
+2025-11-17 19:41:24,pipe_channel_39,50039,116,DEADBEEFCAFE,Packet-116,True,Normal,Novel sequence (unseen),{'sig': '0cc51de37dcc2eb8e1ffc1c912637eedd9e3beabe9b1b2aa5cd040b9892bbcb1'}
+2025-11-17 19:41:25,pipe_channel_39,50039,117,DEADBEEFCAFE,Packet-117,True,Normal,Novel sequence (unseen),{'sig': '251f1342f28ff674ef218acf4bd7a5aeac0d1f1e08a17bf2e5348f81e26bd197'}
+2025-11-17 19:41:26,pipe_channel_39,50039,118,DEADBEEFCAFE,Packet-118,True,Normal,Novel sequence (unseen),{'sig': 'e5fbd716941ec77197a50154fc8203b1c5cf35661426cde21ee4d13034ae6c8d'}
+2025-11-17 19:41:27,pipe_channel_38,50038,119,DEADBEEFCAFE,Packet-119,True,Normal,Novel sequence (unseen),{'sig': 'a5be3fd37e9484378c5c4cd2b162ad0ace1eb1ce444851031f26dee083865848'}
+2025-11-17 19:41:28,pipe_channel_37,50037,120,DEADBEEFCAFE,Packet-120,True,Normal,Novel sequence (unseen),{'sig': '9003124e7b6fc977dee7ed5742229c070cc535c20cf86f9c0c0e7ad660c3c74e'}
+2025-11-17 19:41:29,pipe_channel_38,50038,121,DEADBEEFCAFE,Packet-121,True,Normal,Novel sequence (unseen),{'sig': '876c1e6117ed57aa62787a3c658337e0013497832f0a7e2e61aa874f4a88ee53'}
+2025-11-17 19:41:30,pipe_channel_39,50039,122,DEADBEEFCAFE,Packet-122,True,Normal,Novel sequence (unseen),{'sig': '38a2de91bc38b27678414dbf36d8f302d277476e9ef7c0d2ca0f1620d2b681ff'}
+2025-11-17 19:41:31,pipe_channel_38,50038,123,DEADBEEFCAFE,Packet-123,True,Normal,Novel sequence (unseen),{'sig': '111e03378c234fb8300cd78afe0586045b75c6bfc7b0576016a4dec9812bf418'}
+2025-11-17 19:41:32,pipe_channel_37,50037,124,DEADBEEFCAFE,Packet-124,True,Normal,Novel sequence (unseen),{'sig': '00c3f26cd13a6f1d1dead988220ecee7a7e5f948882b74a6800aab9af4c01691'}
+2025-11-17 19:41:33,pipe_channel_37,50037,125,DEADBEEFCAFE,Packet-125,True,Normal,Novel sequence (unseen),{'sig': 'ad8350a62552a4a98d0a167fce78fcbfed742c1048b2a8e552ec7558a0e91eb0'}
+2025-11-17 19:41:34,pipe_channel_37,50037,126,DEADBEEFCAFE,Packet-126,True,Normal,Novel sequence (unseen),{'sig': 'c2bb2350791b4f193bb4ddeca3a07b48d9fce2cbfebbe901add48e2952a2c0f2'}
+2025-11-17 19:41:35,pipe_channel_37,50037,127,DEADBEEFCAFE,Packet-127,True,Normal,Novel sequence (unseen),{'sig': 'ab4476de575c201169ee0e1535729beb799f99f6fe08018ba811d9528f23c95a'}
+2025-11-17 19:41:36,pipe_channel_37,50037,128,DEADBEEFCAFE,Packet-128,True,Normal,Novel sequence (unseen),{'sig': '8612b9ce256fd5a3df66f7d0766202d0e86e2975bf308e479300e1df5dcc70dd'}
+2025-11-17 19:41:37,pipe_channel_38,50038,129,DEADBEEFCAFE,Packet-129,True,Normal,Novel sequence (unseen),{'sig': 'f7faebe72be0d107838fb65992f62c3c366895fca058c6ffb52e6a5e4a1d520b'}
+2025-11-17 19:41:38,pipe_channel_38,50038,130,DEADBEEFCAFE,Packet-130,True,Normal,Novel sequence (unseen),{'sig': 'e4baf2015629d372a33681acf0dbd75c774ecbb2b0b336bb8fad277ae560a486'}
+2025-11-17 19:41:39,pipe_channel_37,50037,131,DEADBEEFCAFE,Packet-131,True,Normal,Novel sequence (unseen),{'sig': 'a70974d538b4c47c5b5f66e6ba0eb9c2339c914acd870d26e89d047672585493'}
+2025-11-17 19:41:40,pipe_channel_37,50037,132,DEADBEEFCAFE,Packet-132,True,Normal,Novel sequence (unseen),{'sig': '039efb09823bc24ce70a9dfb62d329cc0dc3d2a88d129eea6ec279bc6c1f0e83'}
+2025-11-17 19:41:41,pipe_channel_39,50039,133,DEADBEEFCAFE,Packet-133,True,Normal,Novel sequence (unseen),{'sig': 'cad7aebd1d8d5b42494197d2fe6934844b1a3c7a81b672675123a775d89486c3'}
+2025-11-17 19:41:42,pipe_channel_38,50038,134,DEADBEEFCAFE,Packet-134,True,Normal,Novel sequence (unseen),{'sig': '0537b9fc3a94140e3c17fedef9c57bbef61f2e1280b2e00b3db283529f0750dc'}
+2025-11-17 19:41:43,pipe_channel_38,50038,135,DEADBEEFCAFE,Packet-135,True,Normal,Novel sequence (unseen),{'sig': 'b8685d9ba9b72b0168e793aae949f2dc87ab1f0043b0132eacd41715964b5450'}
+2025-11-17 19:41:44,pipe_channel_39,50039,136,DEADBEEFCAFE,Packet-136,True,Normal,Novel sequence (unseen),{'sig': '3c23fe9c4597ecb226fecd37c422cf4b38659eaebc6a458990df0d908b5a3c48'}
+2025-11-17 19:41:45,pipe_channel_37,50037,137,DEADBEEFCAFE,Packet-137,True,Normal,Novel sequence (unseen),{'sig': '62cf67c67e852f5421f8594099734ad4c97987a76e81de3f65ce0fc6dda1b28e'}
+2025-11-17 19:41:46,pipe_channel_39,50039,138,DEADBEEFCAFE,Packet-138,True,Normal,Novel sequence (unseen),{'sig': '8720ab8cf8c8a8a9af3fed6d7409303b11bb3d59881578bab4ec363fa2314264'}
+2025-11-17 19:41:47,pipe_channel_38,50038,139,DEADBEEFCAFE,Packet-139,True,Normal,Novel sequence (unseen),{'sig': '983a3811fee8e3058340364365089d6b5f61c5663a01b378a5e31c4388def443'}
+2025-11-17 19:41:48,pipe_channel_38,50038,140,DEADBEEFCAFE,Packet-140,True,Normal,Novel sequence (unseen),{'sig': '3792aa8295ab3c2ad12ded47c467e35863a46b0e212447a728ea107faf12220a'}
+2025-11-17 19:41:49,pipe_channel_38,50038,141,DEADBEEFCAFE,Packet-141,True,Normal,Novel sequence (unseen),{'sig': 'de8ea827278b9833df829827e48f395d7b013675f57141c7c087397af864b0e2'}
+2025-11-17 19:41:50,pipe_channel_39,50039,142,DEADBEEFCAFE,Packet-142,True,Normal,Novel sequence (unseen),{'sig': 'dc4fd7bb82b04e0028e9b55430349864c0553e6c6216026762ba9b5168509e6e'}
+2025-11-17 19:41:51,pipe_channel_39,50039,143,DEADBEEFCAFE,Packet-143,True,Normal,Novel sequence (unseen),{'sig': 'cb69a72f066f43e6ee5b90fc2312ba97da7a2040ddacdda479f526a9c525f6f6'}
+2025-11-17 19:41:52,pipe_channel_37,50037,144,DEADBEEFCAFE,Packet-144,True,Normal,Novel sequence (unseen),{'sig': '9d8410ff22b92053f2bc86c26e7bbf26076d0afff1c918b0b9ce8c04e7ef1eba'}
+2025-11-17 19:41:53,pipe_channel_38,50038,145,DEADBEEFCAFE,Packet-145,True,Normal,Novel sequence (unseen),{'sig': '22c009785d2fed3931534a4450667bb4cbf7cfd7a8645b4d9a8bddb11d79b41a'}
+2025-11-17 19:41:54,pipe_channel_37,50037,146,DEADBEEFCAFE,Packet-146,True,Normal,Novel sequence (unseen),{'sig': 'd44c8ccce3ae98159801ab20fa52c0c5ea7580ef6dac8359b80230db2ffcae8b'}
+2025-11-17 19:41:55,pipe_channel_38,50038,147,DEADBEEFCAFE,Packet-147,True,Normal,Novel sequence (unseen),{'sig': '3927db23ca98d71862e3f65d2e4aa7dd58ae73ab10c25a155c02fa2ff50a64cf'}
+2025-11-17 19:41:56,pipe_channel_38,50038,148,DEADBEEFCAFE,Packet-148,True,Normal,Novel sequence (unseen),{'sig': '2faf56884e0920293cbdf364cdc433ef4eb80feb5bbede24125b9775934b5591'}
+2025-11-17 19:41:57,pipe_channel_37,50037,149,DEADBEEFCAFE,Packet-149,True,Normal,Novel sequence (unseen),{'sig': '5eeb0a9dd1d6484415c82bc28c1dbf0f49570c945d79a12c455a1d56e7fd2d9f'}
+2025-11-17 19:41:58,pipe_channel_39,50039,150,DEADBEEFCAFE,Packet-150,True,Normal,Novel sequence (unseen),{'sig': 'a4d7bb6e65b2c6a5151805d428da1669c42cf8f7882ce9e368bb6208bce8d8ca'}
+2025-11-17 19:41:59,pipe_channel_38,50038,151,DEADBEEFCAFE,Packet-151,True,Normal,Novel sequence (unseen),{'sig': 'ac075367dd4281e20bf145d4a0b39c8c91be0d4bcdd3ee89aee13edf7861de65'}
+2025-11-17 19:42:00,pipe_channel_37,50037,152,DEADBEEFCAFE,Packet-152,True,Normal,Novel sequence (unseen),{'sig': '47438049f6e552beb8caa8c73bb632c1035bcfaf5b8bdeecb00518e2c93b1d01'}
+2025-11-17 19:42:01,pipe_channel_38,50038,153,DEADBEEFCAFE,Packet-153,True,Normal,Novel sequence (unseen),{'sig': 'b9894afbf368d99b707beec2afa8cbeb8a2a147345c53895df4175e976ff07c2'}
+2025-11-17 19:42:02,pipe_channel_37,50037,154,DEADBEEFCAFE,Packet-154,True,Normal,Novel sequence (unseen),{'sig': '706027b043359e94536361218f6000862db2c47c0baf7f7b5da75d02a30fd43e'}
+2025-11-17 19:42:03,pipe_channel_37,50037,155,DEADBEEFCAFE,Packet-155,True,Normal,Novel sequence (unseen),{'sig': '8b8283c5641d9efdbebd46fca457bbab4b44ff8c3b0c6390bd964c4b070a3ba4'}
+2025-11-17 19:42:04,pipe_channel_38,50038,156,DEADBEEFCAFE,Packet-156,True,Normal,Novel sequence (unseen),{'sig': 'd0946b418c621fa48b9c03ee269c91b64d81c3258c6bba23ea5c8bdef295fc2e'}
+2025-11-17 19:42:05,pipe_channel_39,50039,157,DEADBEEFCAFE,Packet-157,True,Normal,Novel sequence (unseen),{'sig': 'b03650239708ea7eef7903f03c8c386bfdf4c26ffc3b4121de3a59fcdbf8b61f'}
+2025-11-17 19:42:06,pipe_channel_38,50038,158,DEADBEEFCAFE,Packet-158,True,Normal,Novel sequence (unseen),{'sig': 'cdada9a8884cc828547e3e17b13e30906c653a45f563acd05e9622e72bec5a85'}
+2025-11-17 19:42:07,pipe_channel_37,50037,159,DEADBEEFCAFE,Packet-159,True,Normal,Novel sequence (unseen),{'sig': '570950921858e0e6d06c6ba3264f213ea3411df9eda514fd90e8e7d0aff119ec'}
+2025-11-17 19:42:08,pipe_channel_37,50037,160,DEADBEEFCAFE,Packet-160,True,Normal,Novel sequence (unseen),{'sig': 'b780bd44edaffbb1debf3d1f27f4b1d429f5f8fe1999dc8232fa1cf559f0fa0e'}
+2025-11-17 19:42:09,pipe_channel_39,50039,161,DEADBEEFCAFE,Packet-161,True,Normal,Novel sequence (unseen),{'sig': 'f48c0e31bdbf5a0c7e2cdf191bfec049cf03fba085e0daac0fde65fc473b3a18'}
+2025-11-17 19:42:10,pipe_channel_38,50038,162,DEADBEEFCAFE,Packet-162,True,Normal,Novel sequence (unseen),{'sig': '92612116015570357c496beaa1e35c71e8b8fca02754956c966dd192ba770dd7'}
+2025-11-17 19:42:11,pipe_channel_39,50039,163,DEADBEEFCAFE,Packet-163,True,Normal,Novel sequence (unseen),{'sig': '82ddb54b4e030483412482ed18e3f772793739e6805e6d401dc83c3c0450e676'}
+2025-11-17 19:42:12,pipe_channel_38,50038,164,DEADBEEFCAFE,Packet-164,True,Normal,Novel sequence (unseen),{'sig': 'c88a8b4e0b96969dac5d296d373b60c25b621216aab5db58cfa63fd428f82113'}
+2025-11-17 19:42:13,pipe_channel_39,50039,165,DEADBEEFCAFE,Packet-165,True,Normal,Novel sequence (unseen),{'sig': 'f5982458028358efaea477879597e68746a6164a3e6358a7a189394665c051fc'}
+2025-11-17 19:42:14,pipe_channel_39,50039,166,DEADBEEFCAFE,Packet-166,True,Normal,Novel sequence (unseen),{'sig': '435b77f48c7da8b19f9418813c65c339a47de6143a5dad46ce979d03229e9763'}
+2025-11-17 19:42:15,pipe_channel_39,50039,167,DEADBEEFCAFE,Packet-167,True,Normal,Novel sequence (unseen),{'sig': '8a7a9ea46fc3cad8573c647fa3ed76eed03a653a8304deaccb709a88814ed593'}
+2025-11-17 19:42:16,pipe_channel_39,50039,168,DEADBEEFCAFE,Packet-168,True,Normal,Novel sequence (unseen),{'sig': '35d8324c1644b4250d649359f661196aaa25734590af65ce84f0190af75df9b1'}
+2025-11-17 19:42:17,pipe_channel_38,50038,169,DEADBEEFCAFE,Packet-169,True,Normal,Novel sequence (unseen),{'sig': 'aa47d010fa17e9296327831bac37d253b865b09666d2413accc13faddf5f61ae'}
+2025-11-17 19:42:18,pipe_channel_37,50037,170,DEADBEEFCAFE,Packet-170,True,Normal,Novel sequence (unseen),{'sig': 'ec732c8fc2a694f85e9cf089e8d8b8752630c6697423a0f5b698d4cd0c229941'}
+2025-11-17 19:42:19,pipe_channel_38,50038,171,DEADBEEFCAFE,Packet-171,True,Normal,Novel sequence (unseen),{'sig': 'c9f71a1e0c6d4130fe3ccb0f59a14a80df617d9370aeb84206f03ced19bd3e6e'}
+2025-11-17 19:42:20,pipe_channel_37,50037,172,DEADBEEFCAFE,Packet-172,True,Normal,Novel sequence (unseen),{'sig': 'd6f7ba4ebf069878127a89ac8043b92da7adef8357260f039e740710f2b2bcaa'}
+2025-11-17 19:42:21,pipe_channel_38,50038,173,DEADBEEFCAFE,Packet-173,True,Normal,Novel sequence (unseen),{'sig': '0d25840c7826d9cee830018e426146f84e76edee9f597c800550588f05b73eb5'}
+2025-11-17 19:42:22,pipe_channel_39,50039,174,DEADBEEFCAFE,Packet-174,True,Normal,Novel sequence (unseen),{'sig': '19f2593a6763b45f3ba5b367cc5ae803fa76ea724da4eb54d3e3803bf90af47e'}
+2025-11-17 19:42:23,pipe_channel_37,50037,175,DEADBEEFCAFE,Packet-175,True,Normal,Novel sequence (unseen),{'sig': '78342e92248cb4503a630f4ee5d3a018aa7b60819a2378586db9061d2a16f09b'}
+2025-11-17 19:42:24,pipe_channel_39,50039,176,DEADBEEFCAFE,Packet-176,True,Normal,Novel sequence (unseen),{'sig': '81cc9120fd253164ff97795202c39a9f5828d353aa954983b3559c754dc03342'}
+2025-11-17 19:42:25,pipe_channel_37,50037,177,DEADBEEFCAFE,Packet-177,True,Normal,Novel sequence (unseen),{'sig': '9242f2782b9d762b26c0760334520169e7f7dc79acb3075afb381acac7fcab10'}
+2025-11-17 19:42:26,pipe_channel_39,50039,178,DEADBEEFCAFE,Packet-178,True,Normal,Novel sequence (unseen),{'sig': '8afd59cb405ccfd050cf8e7c01a1c5dc1c680e52816e610708396b7029a0da92'}
+2025-11-17 19:42:27,pipe_channel_37,50037,179,DEADBEEFCAFE,Packet-179,True,Normal,Novel sequence (unseen),{'sig': '56ee478f1025693ee1cd06b6df4c203fb79bf4c062111a45283448aa0a68a396'}
+2025-11-17 19:42:28,pipe_channel_37,50037,180,DEADBEEFCAFE,Packet-180,True,Normal,Novel sequence (unseen),{'sig': '6940e0fb5de0524887617d808850f5ce494769fd4431698d6778a292f38a0a72'}
+2025-11-17 19:42:29,pipe_channel_38,50038,181,DEADBEEFCAFE,Packet-181,True,Normal,Novel sequence (unseen),{'sig': '11683e096261d0f3fe3f3d5357388470ad4ea1eec2dc99712a9155959cf4fe55'}
+2025-11-17 19:42:30,pipe_channel_37,50037,182,DEADBEEFCAFE,Packet-182,True,Normal,Novel sequence (unseen),{'sig': 'dc5c37bac5fa0dd9705e16aa009d3e49b7af6d0797cbce9ad1b082df363b986c'}
+2025-11-17 19:42:31,pipe_channel_37,50037,183,DEADBEEFCAFE,Packet-183,True,Normal,Novel sequence (unseen),{'sig': '8c8671a3ec6917f206899e2f65592181f569a377ac25412682f0eb6da4001256'}
+2025-11-17 19:42:32,pipe_channel_38,50038,184,DEADBEEFCAFE,Packet-184,True,Normal,Novel sequence (unseen),{'sig': 'b1a34839bae0ac930b134420bd10019a7b950570a7252bff8ca85b5fa9896bf2'}
+2025-11-17 19:42:33,pipe_channel_38,50038,185,DEADBEEFCAFE,Packet-185,True,Normal,Novel sequence (unseen),{'sig': 'a03c1d321b7c882ea9eecbccc96c8af182d7872a2fe3a961c689b20d792ea346'}
+2025-11-17 19:42:34,pipe_channel_37,50037,186,DEADBEEFCAFE,Packet-186,True,Normal,Novel sequence (unseen),{'sig': '3a0264ef2609b83cfce364f3de233892f7dd09a2cf418d870b77ab54918a0e16'}
+2025-11-17 19:42:35,pipe_channel_38,50038,187,DEADBEEFCAFE,Packet-187,True,Normal,Novel sequence (unseen),{'sig': '57597e5ae97eb953b7bac42256ea8c633204da04fd5e8c5b0d60228f16bfdfb9'}
+2025-11-17 19:42:36,pipe_channel_37,50037,188,DEADBEEFCAFE,Packet-188,True,Normal,Novel sequence (unseen),{'sig': '2ca9406dcfba8e79a46ab5dba4dcd708e985d70c32efff080fc15a26141817fa'}
+2025-11-17 19:42:37,pipe_channel_37,50037,189,DEADBEEFCAFE,Packet-189,True,Normal,Novel sequence (unseen),{'sig': '01c3d9f83f7b6009e549162771e5a0ad2b1d5b7090527375ce2f3537b3f45726'}
+2025-11-17 19:42:37,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,Normal,Novel sequence (unseen),{'sig': '3883bc2ba645d08a7ca3e9f563c9415804b64fa921ed1a79696a1a0f78e69807'}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,Normal,Novel sequence (unseen),{'sig': '6a5a936b2e3b05b13976317b65dfd76ffa06a188fad04a35f35edba15e3031db'}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,Normal,Novel sequence (unseen),{'sig': '3f749d736ab89bd08bd995dd3d131329bef204773efd40d493793457b693b5f4'}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,Normal,Novel sequence (unseen),{'sig': 'd3075e0dfe5b1aeeb04aab6e6e4c956308425f84e93887f61070783ed184d1a2'}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (5 pkt in 2.0s),{'count': 5}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (6 pkt in 2.0s),{'count': 6}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (7 pkt in 2.0s),{'count': 7}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (8 pkt in 2.0s),{'count': 8}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (9 pkt in 2.0s),{'count': 9}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (10 pkt in 2.0s),{'count': 10}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (11 pkt in 2.0s),{'count': 11}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (12 pkt in 2.0s),{'count': 12}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (13 pkt in 2.0s),{'count': 13}
+2025-11-17 19:42:38,pipe_channel_39,50039,190,DEADBEEFCAFE,Packet-190,True,Normal,Novel sequence (unseen),{'sig': '38d33c354134c76ca2c80aca19fe6e644bf3c4b3e640cfff5add2fc26c1dc21d'}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (14 pkt in 2.0s),{'count': 14}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (15 pkt in 2.0s),{'count': 15}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (16 pkt in 2.0s),{'count': 16}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (17 pkt in 2.0s),{'count': 17}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (18 pkt in 2.0s),{'count': 18}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (19 pkt in 2.0s),{'count': 19}
+2025-11-17 19:42:38,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (20 pkt in 2.0s),{'count': 20}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (21 pkt in 2.0s),{'count': 21}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (22 pkt in 2.0s),{'count': 22}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (23 pkt in 2.0s),{'count': 23}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (24 pkt in 2.0s),{'count': 24}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (25 pkt in 2.0s),{'count': 25}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (26 pkt in 2.0s),{'count': 26}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (27 pkt in 2.0s),{'count': 27}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (28 pkt in 2.0s),{'count': 28}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (29 pkt in 2.0s),{'count': 29}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (30 pkt in 2.0s),{'count': 30}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (31 pkt in 2.0s),{'count': 31}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (32 pkt in 2.0s),{'count': 32}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (33 pkt in 2.0s),{'count': 33}
+2025-11-17 19:42:39,pipe_channel_38,50038,191,DEADBEEFCAFE,Packet-191,True,Normal,Novel sequence (unseen),{'sig': '31cd22e53b8ab9a0538c51ca5a13f5c4db381f2c7f951fc16bd39d8ae4c3b64f'}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (34 pkt in 2.0s),{'count': 34}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (35 pkt in 2.0s),{'count': 35}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (36 pkt in 2.0s),{'count': 36}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (37 pkt in 2.0s),{'count': 37}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (38 pkt in 2.0s),{'count': 38}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:39,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_39,50039,192,DEADBEEFCAFE,Packet-192,True,Normal,Novel sequence (unseen),{'sig': 'b8cf6f389f4b7a7f774769f4b92751ba4b42ee3499157365abcc7caf96bb5618'}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:40,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_38,50038,193,DEADBEEFCAFE,Packet-193,True,Normal,Novel sequence (unseen),{'sig': 'd62e0765c6988120ff85d7cc6f0bc24fe0be8d5675f5094470b613f044c49dff'}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:41,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_38,50038,194,DEADBEEFCAFE,Packet-194,True,Normal,Novel sequence (unseen),{'sig': '9b68bcabb6155b8ad75169ae15cab86ef8aed63b299d40e8ac4582d998ce66d7'}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:42,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_39,50039,195,DEADBEEFCAFE,Packet-195,True,Normal,Novel sequence (unseen),{'sig': '6ee7d45b8341667d544a37653d0c0232dc0d7bb7cef0e1e9200f0807d98d0f62'}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:43,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,196,DEADBEEFCAFE,Packet-196,True,Normal,Novel sequence (unseen),{'sig': '3c0656ed46e89617a6834e3850bf13b19a6e4eed1896c5592181e52a24ae7e39'}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:44,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_38,50038,197,DEADBEEFCAFE,Packet-197,True,Normal,Novel sequence (unseen),{'sig': 'fd05b4ba6b221cd6f4019f16733aeeff4c444eb818a24f27410d0eda026eac87'}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:45,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_38,50038,198,DEADBEEFCAFE,Packet-198,True,Normal,Novel sequence (unseen),{'sig': '32460dbf26c82432da2582f575cc0593ee95f63b4609a09cb6fed8524ed5a33c'}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:46,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_39,50039,199,DEADBEEFCAFE,Packet-199,True,Normal,Novel sequence (unseen),{'sig': '14031f352841104a777b011754216e2abfe7735cfc09868a9ca7d13dd7a621a5'}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:47,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (40 pkt in 2.0s),{'count': 40}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_39,50039,200,DEADBEEFCAFE,Packet-200,True,Normal,Novel sequence (unseen),{'sig': '64826f64fecceb5cca20beaa988bb2d984accdbc6320b5ed8441ac90d754266a'}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:48,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,201,DEADBEEFCAFE,Packet-201,True,Normal,Novel sequence (unseen),{'sig': '348bf8022b7c4c3def9c11eecff86dc0059e1ca820e0d0992427e64db51f1688'}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:49,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_39,50039,202,DEADBEEFCAFE,Packet-202,True,Normal,Novel sequence (unseen),{'sig': '4b9e19195823c239cbb8ec499be23e659580b9d1637733d52b6134000395642d'}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:50,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,203,DEADBEEFCAFE,Packet-203,True,Normal,Novel sequence (unseen),{'sig': 'c7fba708032af5ff2b1c7b5841690338cb65ff60ea8b29ce60211f4881eece98'}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:51,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,204,DEADBEEFCAFE,Packet-204,True,Normal,Novel sequence (unseen),{'sig': '9b41536143d8ac0aeec7403970be79f34d48780585cfe6a5fecdc0474e20aeb4'}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:52,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_39,50039,205,DEADBEEFCAFE,Packet-205,True,Normal,Novel sequence (unseen),{'sig': '80fe980154a9ba81ba8a41d9bfa661f8bb955d04424bc54374e4a533b773ce7d'}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:53,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_38,50038,206,DEADBEEFCAFE,Packet-206,True,Normal,Novel sequence (unseen),{'sig': '9ca604011a6337d3b062f45962cbd4ff3297a104b75abcb986495d5ab563824c'}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:54,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_39,50039,207,DEADBEEFCAFE,Packet-207,True,Normal,Novel sequence (unseen),{'sig': '2ea2f9e10e420087105b17ed4e861c0a144e2067ae11f0772a37cd9010e1fb30'}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:55,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_38,50038,208,DEADBEEFCAFE,Packet-208,True,Normal,Novel sequence (unseen),{'sig': '3058dfab3d560f3b4330a702b163903164e25379b65a49971d0c6594cc59d723'}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:56,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_38,50038,209,DEADBEEFCAFE,Packet-209,True,Normal,Novel sequence (unseen),{'sig': '8406ddefe18caad282d7e3b9ab261c313d32e1040c78543aa721eb29ab2c5c32'}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:57,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_38,50038,210,DEADBEEFCAFE,Packet-210,True,Normal,Novel sequence (unseen),{'sig': '81d5dc12f8ac9e304acc0e354f0f6eefb19639fac5d228196d944657ae984b76'}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:58,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_38,50038,211,DEADBEEFCAFE,Packet-211,True,Normal,Novel sequence (unseen),{'sig': 'f761da3b24ca76e4bc466ff8ed7e9ddffe354b6a83d2cb8a32894d2b0ff96647'}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:42:59,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_39,50039,212,DEADBEEFCAFE,Packet-212,True,Normal,Novel sequence (unseen),{'sig': '89e65f3b704590a713f0e91e882c376b1038d66b0374e7166ecaee2ec9bc641b'}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:00,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,213,DEADBEEFCAFE,Packet-213,True,Normal,Novel sequence (unseen),{'sig': '400b3784ecbd05368a0df647b1ba944deedc2c13f329f7fe1095d84182f87fd0'}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:01,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_39,50039,214,DEADBEEFCAFE,Packet-214,True,Normal,Novel sequence (unseen),{'sig': 'e5f179d1977a7e52def0fd5e85d5f2f2a4a6271dc6e57a7e8f3f75a6d76a5669'}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:02,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,215,DEADBEEFCAFE,Packet-215,True,Normal,Novel sequence (unseen),{'sig': '3ce11ac3f2b74a1733c17325c74eaf06f8159ccc18b52a4ecfb0d03be9f92ed9'}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:03,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_39,50039,216,DEADBEEFCAFE,Packet-216,True,Normal,Novel sequence (unseen),{'sig': '8a274827fbf9b7745e5ce57c19a3a7be4c708b1a9aa7dd26a857a0de7498935b'}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:04,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,217,DEADBEEFCAFE,Packet-217,True,Normal,Novel sequence (unseen),{'sig': '7a36ef0669e39c13560768ca7542b5789b1096420df6176a244570ddd63f5827'}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:05,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,218,DEADBEEFCAFE,Packet-218,True,Normal,Novel sequence (unseen),{'sig': '21a11e1dfb6a7f63f999e633ef9a9b9e1ae21c5dd45dbee97e4d301add8a49f2'}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:06,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_39,50039,219,DEADBEEFCAFE,Packet-219,True,Normal,Novel sequence (unseen),{'sig': '8a326117f0d4f5851d7cecfdc710cedce3597f4bcb929212f130f33f2f16dc4c'}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:07,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,220,DEADBEEFCAFE,Packet-220,True,Normal,Novel sequence (unseen),{'sig': 'b78e7d66bbe0f7dd4bb56ebaa528573d467b896272a4e8ab22e84293ee901066'}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:08,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,221,DEADBEEFCAFE,Packet-221,True,Normal,Novel sequence (unseen),{'sig': '8cbaa779b25b71b07f9779db3e8d7a4d9e62bc640edf45af081e176fca55c65a'}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:09,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_39,50039,222,DEADBEEFCAFE,Packet-222,True,Normal,Novel sequence (unseen),{'sig': 'b05abaa68d5aadd422cadad28de14bebc62aeaee6ac2d7630e1331966e0a6c4f'}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:10,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_38,50038,223,DEADBEEFCAFE,Packet-223,True,Normal,Novel sequence (unseen),{'sig': '60d2b6bbe51b0d64e358df0a991bdf6274073319d0c56daca04ccfd881a720bb'}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:11,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_38,50038,224,DEADBEEFCAFE,Packet-224,True,Normal,Novel sequence (unseen),{'sig': 'f2d22504b0d8743e09d969420cd91f985dd83a4af3e67099ba68a306f0fa3bec'}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:12,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_39,50039,225,DEADBEEFCAFE,Packet-225,True,Normal,Novel sequence (unseen),{'sig': '7e5f31c391c9a196d6fb0d64e75c1a36209c28fe03fb91eaa75a50b48a049b50'}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:13,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_38,50038,226,DEADBEEFCAFE,Packet-226,True,Normal,Novel sequence (unseen),{'sig': 'e233bed9d0cc8b03e8c892555f6b49446aca5276545899e2d26aaf3997ebab18'}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:14,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,227,DEADBEEFCAFE,Packet-227,True,Normal,Novel sequence (unseen),{'sig': '735b57cf9dd30f5af6fb4bccac5956af57ce409910b5cf2108bdb3b8f8aeb2dc'}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:15,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,228,DEADBEEFCAFE,Packet-228,True,Normal,Novel sequence (unseen),{'sig': '8aefd34b8a38c3b717fd20a91aeb9765be74f9dacfb6f932b3f75bc3695b7d2d'}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:16,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_39,50039,229,DEADBEEFCAFE,Packet-229,True,Normal,Novel sequence (unseen),{'sig': 'c367fff5f4a9ec0e02a2cc04963f61a3924d4e4c79412c1398673176f87363cf'}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:17,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_39,50039,230,DEADBEEFCAFE,Packet-230,True,Normal,Novel sequence (unseen),{'sig': 'b8de58e2e8ff646f9be65d882dacb08537a7a9bb3250930b43444ae35139083b'}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:18,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,231,DEADBEEFCAFE,Packet-231,True,Normal,Novel sequence (unseen),{'sig': 'a152bb3ca5b4ed6dd7c7d3890b613ad220c6a610d9bec098d927a79f12750d60'}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:19,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_39,50039,232,DEADBEEFCAFE,Packet-232,True,Normal,Novel sequence (unseen),{'sig': '2ee08962757c1c99bca8b1c5d265b0356f32e04e9efa32cedc56578a88ba612e'}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:20,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_38,50038,233,DEADBEEFCAFE,Packet-233,True,Normal,Novel sequence (unseen),{'sig': '9941476839d8f90422e17439050b18484fa82a474c15598154f53317ce498afd'}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:21,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,234,DEADBEEFCAFE,Packet-234,True,Normal,Novel sequence (unseen),{'sig': '8d2e86d3286f0d4eb8b7773f7b2c0f4f01988fc91ccd3dc9f810e661885b38b3'}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:22,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_39,50039,235,DEADBEEFCAFE,Packet-235,True,Normal,Novel sequence (unseen),{'sig': '85a8fb6f21c29f6de0afc838a393b73afb3e84d8d877f15bd56c03632d14bfab'}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:23,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_38,50038,236,DEADBEEFCAFE,Packet-236,True,Normal,Novel sequence (unseen),{'sig': 'dc1e03d04eb9301455a1b06e2be69e0b7bc6c7bb33c2e2859e83fef4715c4d67'}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:24,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_39,50039,237,DEADBEEFCAFE,Packet-237,True,Normal,Novel sequence (unseen),{'sig': '5fa4a7f16ac2f3577ee5108fa5f4a2f4f753d3627339e66fd305781c23198de4'}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:25,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_39,50039,238,DEADBEEFCAFE,Packet-238,True,Normal,Novel sequence (unseen),{'sig': '5820ed6476216fbfdb4d7998b7bbb67bb0295c597dfb17e21fb98b5948a122db'}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:26,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-17 19:43:27,pipe_channel_37,50037,0,AABBCCDDEEFF,ATTACK PACKET,False,ATTACK,DoS Flood (39 pkt in 2.0s),{'count': 39}
+2025-11-18 01:31:49,pipe_channel_37,50037,13,DEADBEEFCAFE,Packet-13,True,Normal,Learning,"{'sig': '8a0d217a5ca7a93c91243ecd6c7920e5e63acee59748deb0c92662cb3838f17f', 'baseline_count': 1}"
+2025-11-18 01:31:51,pipe_channel_37,50037,14,DEADBEEFCAFE,Packet-14,True,Normal,Learning,"{'sig': 'bff538d9b1427fec4c5c7fa1e097cf22d462292b123cfc63b0aaf41e3bcd7c01', 'baseline_count': 1}"
+2025-11-18 01:31:52,pipe_channel_39,50039,15,DEADBEEFCAFE,Packet-15,True,Normal,Learning,"{'sig': '78239d9068a11ec646a9b5803bd9e246bedec4de54bce759c0b5ac9b5a4ca6b6', 'baseline_count': 1}"
+2025-11-18 01:31:55,pipe_channel_38,50038,16,DEADBEEFCAFE,Packet-16,True,Normal,Learning,"{'sig': '8ed0bcb014a69ac1e33422de166c6d7762df17014c73d9a219942cc1fa86c8db', 'baseline_count': 1}"
+2025-11-18 01:31:56,pipe_channel_39,50039,17,DEADBEEFCAFE,Packet-17,True,Normal,Learning,"{'sig': 'a2603038ec2346e6620b3fc10776dc1d3a77cbe452d2f63778af25731dfcefad', 'baseline_count': 1}"
+2025-11-18 01:31:59,pipe_channel_37,50037,18,DEADBEEFCAFE,Packet-18,True,Normal,Learning finished,{'baseline_entries': 5}
+2025-11-18 01:32:00,pipe_channel_38,50038,19,DEADBEEFCAFE,Packet-19,True,Normal,Novel sequence (unseen),{'sig': '3f9e7338b3526bb3913244febabfd7d95ed7e569839e3f521c151375a413267d'}
+2025-11-18 01:32:03,pipe_channel_39,50039,23,DEADBEEFCAFE,Packet-23,True,Normal,Novel sequence (unseen),{'sig': 'e1aa8f2afb396e654250134643fffc91fb2b82ddaa386d950ef9c7eb0a3d091e'}
+2025-11-18 01:32:04,pipe_channel_39,50039,24,DEADBEEFCAFE,Packet-24,True,Normal,Novel sequence (unseen),{'sig': 'bae9d3caa7054bb8064c8e51d4345c84562b9fcfd124e3b901600aa97720b894'}
+2025-11-18 01:32:08,pipe_channel_38,50038,28,DEADBEEFCAFE,Packet-28,True,Normal,Novel sequence (unseen),{'sig': 'ea11bcac2cc8bacb7a66a71d908847730dba9c1e15d940448a31ea1d6c7d0060'}
+2025-11-18 01:32:09,pipe_channel_38,50038,29,DEADBEEFCAFE,Packet-29,True,Normal,Novel sequence (unseen),{'sig': '7f4ee2c6ed49e645ae0daa38197fd65a96d9e4d2e9dd84c54e5d24f3a38208c3'}
+2025-11-18 01:32:11,pipe_channel_39,50039,31,DEADBEEFCAFE,Packet-31,True,Normal,Novel sequence (unseen),{'sig': '5cdadd6de5a4ad122c539d732b551919170b8f253577699757ba3556fc8f2fe4'}
+2025-11-18 01:32:13,pipe_channel_37,50037,33,DEADBEEFCAFE,Packet-33,True,Normal,Novel sequence (unseen),{'sig': 'f3941e69bb9e6ddaadb074ae153b5a50fa574c95d062ab83d9c4658dac119488'}
+2025-11-18 01:32:17,pipe_channel_39,50039,37,DEADBEEFCAFE,Packet-37,True,Normal,Novel sequence (unseen),{'sig': 'c3e56b4b2635be5cf6f3f57ed2a0ba73af8c96ddd989ddb77afa3922b1477dad'}
+2025-11-18 01:32:19,pipe_channel_37,50037,38,DEADBEEFCAFE,Packet-38,True,Normal,Novel sequence (unseen),{'sig': '201a5cf7c27c422f6ff0095803ea0611b03e737d1970761a5ec72ddd1d322373'}
+2025-11-18 01:32:21,pipe_channel_37,50037,40,DEADBEEFCAFE,Packet-40,True,Normal,Novel sequence (unseen),{'sig': '6b3e9c0ee6dd8815e94b7773ca14e4ab0adc2b3403a3c9bd4650d47e974f18dc'}
+2025-11-18 01:32:22,pipe_channel_38,50038,41,DEADBEEFCAFE,Packet-41,True,Normal,Novel sequence (unseen),{'sig': 'f66034e95cbaf5271607342d82e9eb52a11c7774531f585d53e2849f79424fbf'}
+2025-11-18 01:32:28,pipe_channel_39,50039,46,DEADBEEFCAFE,Packet-46,True,Normal,Novel sequence (unseen),{'sig': 'a08829a200dbbaafc5cb05b6b15d6f5ab3f7e5d81a8b6c1f92b91b2e1d9258d4'}
+2025-11-18 01:32:28,pipe_channel_37,50037,47,DEADBEEFCAFE,Packet-47,True,Normal,Novel sequence (unseen),{'sig': '54a4448e58ee2629696538b1dd6262d560540abf49867be90eb9d5507e0133be'}
+2025-11-18 01:32:29,pipe_channel_37,50037,48,DEADBEEFCAFE,Packet-48,True,Normal,Novel sequence (unseen),{'sig': '9930368469a73827457c1ee84d08485f095e547e7efdd39978885be9dbcb8aba'}
+2025-11-18 01:32:34,pipe_channel_39,50039,52,DEADBEEFCAFE,Packet-52,True,Normal,Novel sequence (unseen),{'sig': '7a5d0c1e6b3f8b42f1ac86f4dbe77e7694fa9665cc4ff59c6de9155584bb7d26'}
+2025-11-18 01:32:35,pipe_channel_38,50038,53,DEADBEEFCAFE,Packet-53,True,Normal,Novel sequence (unseen),{'sig': '9880bc667c7f96c8553da7859c4fdf31c4028e8e4946962ff57c94a88e4230cd'}
+2025-11-18 01:32:37,pipe_channel_37,50037,55,DEADBEEFCAFE,Packet-55,True,Normal,Novel sequence (unseen),{'sig': '9e2c930457c765d3426b3ede625a19c25f5c3db5412b67d2a225ba7d1e93d9c9'}
+2025-11-18 01:32:39,pipe_channel_39,50039,57,DEADBEEFCAFE,Packet-57,True,Normal,Novel sequence (unseen),{'sig': '0a3b1bf59100d57b6c38e2ca2104241d0203350eb737001414b801ed9fedded5'}
+2025-11-18 01:32:39,pipe_channel_37,50037,58,DEADBEEFCAFE,Packet-58,True,Normal,Novel sequence (unseen),{'sig': '911ff124be26c513e0b6d4d3084888f78acb6e0ef707d6a98fdb958a77ad46c9'}
+2025-11-18 01:32:40,pipe_channel_38,50038,59,DEADBEEFCAFE,Packet-59,True,Normal,Novel sequence (unseen),{'sig': 'ec24ee7f3e6ca326dee50bb35d7aaa1778fdfdcbfe4e43f1e34b68277620b5db'}
+2025-11-18 01:32:42,pipe_channel_39,50039,60,DEADBEEFCAFE,Packet-60,True,Normal,Novel sequence (unseen),{'sig': '0365c0ba88b8950ba5d344130b1ef92b677301f17546d3ac5350d6b4f32137ea'}
+2025-11-18 01:32:43,pipe_channel_38,50038,62,DEADBEEFCAFE,Packet-62,True,Normal,Novel sequence (unseen),{'sig': 'ebeecbe22a9b69369eea51236e14a379b8ea4763cae114aebd96eae78146d1b0'}
+2025-11-18 01:32:47,pipe_channel_38,50038,66,DEADBEEFCAFE,Packet-66,True,Normal,Novel sequence (unseen),{'sig': '8eb16d9a178a2746766198877151e77c6f87fe31b3602664e154c339afa5d264'}
+2025-11-18 01:32:49,pipe_channel_37,50037,68,DEADBEEFCAFE,Packet-68,True,Normal,Novel sequence (unseen),{'sig': '5b140e31c2355f29308702153cd7f442d7dd8eb2107ee29c4168a9ee5c055c41'}
+2025-11-18 01:32:50,pipe_channel_38,50038,69,DEADBEEFCAFE,Packet-69,True,Normal,Novel sequence (unseen),{'sig': 'ca56d975291a18e0a91268a86d005c4064513ae7fef7b50068193b4de7c1259d'}
+2025-11-18 01:32:51,pipe_channel_38,50038,70,DEADBEEFCAFE,Packet-70,True,Normal,Novel sequence (unseen),{'sig': '1a1ffcc214422f933f9f46c3abdd8b214c9ad6a3e212c5d38462f0611330fade'}
+2025-11-18 01:32:52,pipe_channel_38,50038,71,DEADBEEFCAFE,Packet-71,True,Normal,Novel sequence (unseen),{'sig': 'e849417e076cc843c2262749822f07f67e566d4a778c5321a87f28f4866b565d'}
+2025-11-18 01:32:53,pipe_channel_37,50037,72,DEADBEEFCAFE,Packet-72,True,Normal,Novel sequence (unseen),{'sig': '5559648a10e6f5a93038e6c034900a8cf107d1aabccdd25dbbe39c9e09457c72'}
+2025-11-18 01:32:54,pipe_channel_37,50037,73,DEADBEEFCAFE,Packet-73,True,Normal,Novel sequence (unseen),{'sig': '9127ce8d958a62c7767b77e92b529267de9385095d05ec16f63289024c0395a2'}
+2025-11-18 01:32:56,pipe_channel_37,50037,75,DEADBEEFCAFE,Packet-75,True,Normal,Novel sequence (unseen),{'sig': '3285c00bf92ce4604be35e13e87a87c7747eaa2cab50d98c7062e23e8f676be7'}
+2025-11-18 01:32:57,pipe_channel_38,50038,76,DEADBEEFCAFE,Packet-76,True,Normal,Novel sequence (unseen),{'sig': '451e6a0d573dde4a46d918f83cc43dabf918b3582fd4905610f9b9eb5a500b5c'}
+2025-11-18 01:32:59,pipe_channel_38,50038,78,DEADBEEFCAFE,Packet-78,True,Normal,Novel sequence (unseen),{'sig': '7b1c4bbb712be4a4bff7a56a2369d1a813f97081891b1b1f0f16cede8f7e8d2f'}
+2025-11-18 01:32:59,pipe_channel_39,50039,79,DEADBEEFCAFE,Packet-79,True,Normal,Novel sequence (unseen),{'sig': 'f0094c98a03122f3d58204c56fa430b5e66ec01b8d40aa5fd376b41d758fb6bd'}
+2025-11-18 01:33:00,pipe_channel_39,50039,80,DEADBEEFCAFE,Packet-80,True,Normal,Novel sequence (unseen),{'sig': '0e2f0a36f34b9c7b8716b9bd5f6606139da72567b91a7c174a0c3c94947284f7'}
